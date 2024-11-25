@@ -4,8 +4,9 @@
 <h3 align="center">Digital Detective Uncovering Insights</h3>  
 
 <div align="center">  
-  <img src="https://giphy.com/gifs/JoinGrapes-office-working-gif-XUIJbFUUMCKkmICfVI" alt="Cute Bear Working" width="200" />  
-</div>  
+  <img src="https://media.giphy.com/media/XUIJbFUUMCKkmICfVI/giphy.gif" alt="Cute Bear Working" width="200" />  
+</div>
+ 
 
 ### About Me  
 
