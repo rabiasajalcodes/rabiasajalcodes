@@ -4,7 +4,7 @@
 <h3 align="center">Digital Detective Uncovering Insights</h3>  
 
 <div align="center">  
-  <img src="https://media.giphy.com/media/XUIJbFUUMCKkmICfVI/giphy.gif" alt="Cute Bear Working" width="200" />  
+  <img src="https://media.giphy.com/media/XUIJbFUUMCKkmICfVI/giphy.gif" alt="Cute Bear Working" width="500" />  
 </div>
  
 
