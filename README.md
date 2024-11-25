@@ -1,10 +1,9 @@
 ## Hi there 👋  
 
 <h1 align="center">Hi 👋, I'm Rabia Sajal Niazi</h1>  
-<h3 align="center">Digital Detective Uncovering Insights</h3>  
 
 <div align="center">  
-  <img src="https://media.giphy.com/media/XUIJbFUUMCKkmICfVI/giphy.gif" alt="Cute Bear Working" width="500" />  
+  <img src="https://media.giphy.com/media/XUIJbFUUMCKkmICfVI/giphy.gif" alt="Cute Bear Working" width="300" />  
 </div>
  
 
